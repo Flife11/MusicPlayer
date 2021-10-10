@@ -1,0 +1,32 @@
+{
+"songs" : [
+    {
+        "id": 1,
+        "name": "Over The Moon",
+        "author": "MONSTAR",
+        "image": "./images/5339_AlbumCover_MONSTAR.jpg",
+        "audio": "./audio/over-the-moon-intro-MONSTAR.mp3"
+    },
+    {
+        "id": 2,
+        "name": "Tình Yêu Chậm Trễ",
+        "author": "MONSTAR",
+        "image": "./images/tinh-yeu-cham-tre.jpg",
+        "audio": "./audio/tinh-yeu-cham-tre-MONSTAR.mp3"
+    },
+    {
+        "id": 3,
+        "name": "Dịu Dàng Em Đến",
+        "author": "ERIK-Ninjaz",
+        "image": "./images/diu-dang-em-den.jpg",
+        "audio": "./Diu-Dang-Em-Den-ERIK-NinjaZ.mp3"
+    },
+    {
+        "id": 4,
+        "name": "Ánh Trăng Tình Ái",
+        "author": "Dương Edwar",
+        "image": "./images/anh-trang-tinh-ai.jpg",
+        "audio": "./audio/Anh-Trang-Tinh-Ai-Duong-Edward.mp3"
+    }
+]
+}
